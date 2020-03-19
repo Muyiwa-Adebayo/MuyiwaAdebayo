@@ -1,0 +1,9 @@
+HNG TASK
+GIT TASK 1
+Full Name: Adebayo Oluwamuyiwa David
+Email: muyiwa_david36@yahoo.com
+Slack Username: Muyiwa Adebayo
+Tracks: 1. Front-end
+        2. Design
+Courses: 1. HTML, CSS and JavaScript
+         2. UI/UX
